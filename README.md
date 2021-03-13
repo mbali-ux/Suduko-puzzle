@@ -1,0 +1,2 @@
+# Suduko-puzzle
+Sudoku - pronounced soo-doe-koo - does not require general knowledge, linguistic ability or even mathematical skill. Dubbed the Rubik's Cube of the 21st century, it consists of a grid of 81 squares, divided into nine blocks of nine squares each. Some of the squares contain a figure. The goal is to fill in the empty squares so that the figures 1 to 9 appear just once in every row, column and individual block. The requirement is logic or, for those willing to engage in a fiendish game of trial and error, sheer patience.
